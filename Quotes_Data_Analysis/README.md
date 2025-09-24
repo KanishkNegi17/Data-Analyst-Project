@@ -1,23 +1,24 @@
-QuoteQuest: 
+# QuoteQuest 
 
-A Web Scraping and Data Analysis Project
-This project extracts famous quotes from a website, stores them, and performs an Exploratory Data Analysis (EDA) to uncover insights. It demonstrates a complete data pipeline from data acquisition to analysis.
+__A Web Scraping and Data Analysis Project__
+__This project extracts famous quotes from a website, stores them, and performs an Exploratory Data Analysis (EDA) to uncover insights. It demonstrates a complete data pipeline from data acquisition to analysis.__
 
- Description
-The goal of this project is to build a simple web scraper to collect quotes, authors, and tags, and then analyze the collected data. This involves two main phases:
+__Description__
 
-Web Scraping: A Python script (WebScrape.ipynb) fetches data from a quotes website and saves it into a structured CSV file (quotes.csv).
+__The goal of this project is to build a simple web scraper to collect quotes, authors, and tags, and then analyze the collected data. This involves two main phases:__
 
-Exploratory Data Analysis (EDA): A separate Jupyter Notebook (EDA.ipynb) is used to load the scraped data, clean it, and create visualizations to understand patterns, such as the most prolific authors or the most common quote tags.
+> Web Scraping: A Python script (WebScrape.ipynb) fetches data from a quotes website and saves it into a structured CSV file (quotes.csv).
 
-Technologies Used:
+> Exploratory Data Analysis (EDA): A separate Jupyter Notebook (EDA.ipynb) is used to load the scraped data, clean it, and create visualizations to understand patterns, such as the most prolific authors or the most common quote tags.
 
-Python: The core programming language.
+__Technologies Used:__
 
-Jupyter Notebook: For interactive development and analysis.
+>Python: The core programming language.
 
-Pandas: For data manipulation and analysis.
+>Jupyter Notebook: For interactive development and analysis.
 
-Beautiful Soup & Requests: For web scraping.
+>Pandas: For data manipulation and analysis.
 
-Matplotlib & Seaborn: For data visualization.
+>Beautiful Soup & Requests: For web scraping.
+
+>Matplotlib & Seaborn: For data visualization.
